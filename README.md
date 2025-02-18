@@ -11,5 +11,6 @@ Solver Class: Executes the SAT-solving process, tracks decision levels, and impl
 Usage
 Compile the project using your preferred C++ compiler with C++ standard 20. For example:
 
-g++ -std=c++20 main.cpp -o solver 
+g++ -std=c++20 main.cpp -o solver
+
 Run the program interactively by providing inputs directly from the command line when prompted.
