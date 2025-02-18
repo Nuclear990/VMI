@@ -1,4 +1,5 @@
-DPLL SAT Solver with Conflict-Driven Clause Learning
+#DPLL SAT Solver with Conflict-Driven Clause Learning
+
 This project implements a SAT solver using the DPLL (Davis-Putnam-Logemann-Loveland) algorithm, enhanced with Conflict-Driven Clause Learning (CDCL). The solver checks if a formula in Conjunctive Normal Form(CNF) is satisfiable, and prints a satisfying assignment if possible. The solver is built using an object-oriented approach and includes three primary classes: Literal, Clause, and Solver.
 
 Features
